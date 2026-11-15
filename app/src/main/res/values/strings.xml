@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clash of Music</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_search">Buscar</string>
+    <string name="nav_downloads">Descargas</string>
+    <string name="nav_library">Biblioteca</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="download_channel_name">Descargas de música</string>
+    <string name="download_channel_desc">Notificaciones del progreso de descarga de canciones</string>
+    <string name="notification_channel_playback">Reproductor de Música</string>
+</resources>
